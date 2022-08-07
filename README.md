@@ -12,3 +12,4 @@ Information about the Grundsteuer / Land tax in Germany
 - https://geoportal-hamburg.de/geo-online
 
 ### Schleswig-Holstein
+- https://www.schleswig-holstein.de/DE/landesregierung/themen/finanzen/grundsteuerreform/grundsteuerreform_node.html
