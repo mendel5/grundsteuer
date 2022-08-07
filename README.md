@@ -3,6 +3,9 @@ Information about the Grundsteuer / Land tax in Germany
 
 ## Links
 
+### Allgemein
+- https://www.haufe.de/steuern/finanzverwaltung/grundsteuerreform-unterstuetzungsleistungen_164_566720.html
+
 ### Niedersachsen
 - https://grundsteuer-viewer.niedersachsen.de
 - https://lstn.niedersachsen.de/steuer/grundsteuer
