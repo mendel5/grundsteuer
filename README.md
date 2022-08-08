@@ -20,3 +20,4 @@ Information about the Grundsteuer / Land tax in Germany
 ### Schleswig-Holstein
 - https://www.schleswig-holstein.de/DE/landesregierung/themen/finanzen/grundsteuerreform/grundsteuerreform_node.html
 - https://www.ndr.de/nachrichten/schleswig-holstein/Grundsteuerreform-Was-Eigentuemer-jetzt-wissen-muessen,grundsteuer296.html
+- https://danord.gdi-sh.de/viewer/resources/apps/bodenrichtwertefuergrundsteuerzweckesh
