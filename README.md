@@ -5,6 +5,7 @@ Information about the Grundsteuer / Land tax in Germany
 
 ### Allgemein
 - https://www.haufe.de/steuern/finanzverwaltung/grundsteuerreform-unterstuetzungsleistungen_164_566720.html
+- https://app.wiso-grundsteuer.de/clients/properties
 
 ### Niedersachsen
 - https://grundsteuer-viewer.niedersachsen.de Hier Grundstücksdaten abrufen
