@@ -5,7 +5,11 @@ Information about the Grundsteuer / Land tax in Germany
 
 ### Allgemein
 - https://www.haufe.de/steuern/finanzverwaltung/grundsteuerreform-unterstuetzungsleistungen_164_566720.html
+
+### WISO Grundsteuer
+- https://www.amazon.de/dp/B0B5GFRX1R/ WISO Grundsteuer 2022
 - https://app.wiso-grundsteuer.de/clients/properties
+- https://www.steuer-web.de/grundsteuer/
 
 ### Niedersachsen
 - https://grundsteuer-viewer.niedersachsen.de Hier Grundstücksdaten abrufen
