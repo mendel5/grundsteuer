@@ -8,8 +8,8 @@ Information about the Grundsteuer / Land tax in Germany
 
 ### WISO Grundsteuer
 - https://www.amazon.de/dp/B0B5GFRX1R/ WISO Grundsteuer 2022
-- https://app.wiso-grundsteuer.de/clients/properties
 - https://www.steuer-web.de/grundsteuer/
+- https://app.wiso-grundsteuer.de/clients/properties
 
 ### Niedersachsen
 - https://grundsteuer-viewer.niedersachsen.de Hier Grundstücksdaten abrufen
